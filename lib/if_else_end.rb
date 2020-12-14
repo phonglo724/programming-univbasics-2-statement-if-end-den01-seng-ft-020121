@@ -1,4 +1,4 @@
-current_time = Time.
+current_time = Time.now
 
 if true
   puts "Even!"
