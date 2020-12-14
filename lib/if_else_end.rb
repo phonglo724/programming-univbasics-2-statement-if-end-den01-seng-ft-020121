@@ -1,1 +1,5 @@
-# Write your solution here
+if t
+  puts "Even!"
+else
+  puts "Odd!"
+end
