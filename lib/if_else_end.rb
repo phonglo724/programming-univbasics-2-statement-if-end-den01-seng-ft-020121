@@ -1,3 +1,5 @@
+current_time = Time.
+
 if true
   puts "Even!"
 else
